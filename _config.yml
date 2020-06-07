@@ -11,11 +11,14 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-CSDN:               Ng_HE_CSDN
-# facebook:           default
-# instagram:          default
 github:             NicHeBlog
+linkedin:           heningprofile
+CSDN:               Ng_HE_CSDN
+email:              default
+facebook:           default
+instagram:          default
+twitter:            default
+
 
 # personal
 location:           Beijing, China
